@@ -6,7 +6,7 @@ import java.util.Scanner;
 public class RoomReservationSystem {
 	static final String DB_URL = "jdbc:mysql://localhost/room reservation";
 	static final String USER = "root";
-	static final String PASS = "ã311200å";
+	static final String PASS = "Ã£311200Ã¥";  //// write your own passworkd from mysql scheme
 //Menu options Strings 	
 	public static String menu = "Menu:";
 	public static String one = "    1. Create Room";
