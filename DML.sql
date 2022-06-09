@@ -11,24 +11,6 @@
  insert into instructor (id, instructor_name, instructor_email, city_state) values (2, 'Chris Kon', 'chriscon@fakemail.com', 'New York/USA');
  insert into instructor (id, instructor_name, instructor_email, city_state) values (3, 'Mace Windu', 'macewindu@jedi.com', 'Coruscant/Jedi');
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 -- NOT NECESSARY CAN DELETE IT 
 
 -- insert into room (id, room_name, building_id, capacity, property_string) values (1, 'B001', 4, 10, 'table, pc, laptop');
