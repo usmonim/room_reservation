@@ -49,3 +49,7 @@ An example run:
 ![Annotation 2022-05-29 115423](https://user-images.githubusercontent.com/98253476/170860353-e54b81e5-da4e-42a8-ba9e-2389ff60ba52.jpg)
 
 
+The Dtabase design:
+![image5](https://user-images.githubusercontent.com/98253476/180260565-73307f02-c684-428f-9979-77f944e0a056.jpg)
+
+
